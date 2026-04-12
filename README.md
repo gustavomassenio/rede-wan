@@ -93,27 +93,20 @@ Exemplo:
 
 ---
 
+
+
+
+
+
 ## 📷 Topologia
 
-
-
-
-## 📷 Topologia
-
-![Topologia WAN](redewancompleta.png)
+![Topologia WAN](wancompleta.png)
 
 
 ---
 
-## 🚀 Possíveis Melhorias
 
-* Implementar protocolos de roteamento dinâmico (OSPF, RIP ou EIGRP)
-* Adicionar redundância de links
-* Implementar VLANs nas LANs
-* Aplicar QoS (Quality of Service)
-* Simular falhas de link
 
----
 
 ## 📚 Objetivo Acadêmico
 
@@ -126,6 +119,4 @@ Este projeto tem como objetivo demonstrar:
 
 ---
 
-## 👨‍💻 Autor
 
-Projeto desenvolvido para fins de estudo em redes de computadores.
